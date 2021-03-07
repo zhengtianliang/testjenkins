@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/jenkins")
 public class TestController {
 
+    
     /**
      * @author: ZhengTianLiang
      * @date: 2021/03/07  14:41
